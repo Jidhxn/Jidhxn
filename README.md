@@ -12,7 +12,7 @@
 - reach me on [linkedin](https://www.linkedin.com/in/jidhxn/) and [@jidhxn](https://twitter.com/jidhxn)
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohittp0&theme=gruvbox" alt="Stats"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jidhxn&theme=gruvbox" alt="Stats"  /></p>
 
 <hr>
 <p align="center">
