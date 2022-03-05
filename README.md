@@ -11,9 +11,8 @@
 - KHMHSS Valakkulam **SSLC**
 - reach me on [linkedin](https://www.linkedin.com/in/jidhxn/) and [@jidhxn](https://twitter.com/jidhxn)
 
-## :bar_chart: &nbsp; "Stats for nerds":stuck_out_tongue_winking_eye:
+## :bar_chart: &nbsp; "![image](https://user-images.githubusercontent.com/88083666/156889089-7c3d01fd-4bb6-4b49-8392-9eaf9e581e6e.png)"
 
- 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jidhxn&theme=dark" alt="Jidhun" /></p>
 
 <br /><hr />
