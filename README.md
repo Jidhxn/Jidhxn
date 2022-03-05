@@ -2,8 +2,8 @@
 - 💞️ I’m interested in Open Source Development
 - 👀I’m looking to collaborate on interesting projects
 
-[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/jidhxn/) [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)  [ ![github](https://badges.aleen42.com/src/github.svg)](https://github.com/Jidhxn)
-
+[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/jidhxn/) [ ![github](https://badges.aleen42.com/src/github.svg)](https://github.com/Jidhxn)
+ [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)
 ### Education
 
 - Ramanujan College, Delhi University **BSc (Hons.) Computer Science**
