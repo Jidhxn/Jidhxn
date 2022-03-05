@@ -17,4 +17,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jidhxn&theme=dark&hide_border=true&layout=compact" />
 </p><br /><hr />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jidhxn&theme=cobalt" alt="Jidhun" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jidhxn&theme=dark" alt="Jidhun" /></p>
