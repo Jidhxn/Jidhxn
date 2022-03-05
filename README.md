@@ -1,8 +1,8 @@
 ## Hi, I'm Jidhun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-- 💞️ I’m interested in Full Stack development
+- 💞️ I’m interested in Open Source Development
 - 👀I’m looking to collaborate on interesting projects
 
-[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/jidhxn/) [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)
+[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/jidhxn/) [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)  [ ![github](https://badges.aleen42.com/src/github.svg)](https://github.com/Jidhxn)
 
 ### Education
 
