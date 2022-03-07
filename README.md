@@ -1,6 +1,6 @@
 ## Hi, I'm Jidhun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-- 💞️ I’m interested in Open Source Development
-- 👀I’m looking to collaborate on interesting projects
+- I’m interested in Open Source Development
+- I’m looking to collaborate on interesting projects
 
 [![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/jidhxn/) [ ![github](https://badges.aleen42.com/src/github.svg)](https://github.com/Jidhxn)
  [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)
