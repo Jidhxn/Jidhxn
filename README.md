@@ -8,7 +8,7 @@
 ### 📚 Education
 
 - Ramanujan College, Delhi University **BSc (Hons.) Computer Science**
-- Sri C AchuthaMenon Govt College, Thrissur **Drop-Out**
+- Sri C AchuthaMenon Govt College, Thrissur **Drop-Out BSc Computer Science**
 - GMHSS Calicut University Campus **Computer Science**
 - reach me on [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b) and [@jidhxn](https://www.instagram.com/jidhxn/)
 
