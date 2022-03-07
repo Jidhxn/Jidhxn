@@ -4,7 +4,7 @@
 
 [![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/jidhxn/) [ ![github](https://badges.aleen42.com/src/github.svg)](https://github.com/Jidhxn)
  [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)
-### Education
+### 📚 Education
 
 - Ramanujan College, Delhi University **BSc (Hons.) Computer Science**
 - GMHSS Calicut University Campus **Computer Science**
