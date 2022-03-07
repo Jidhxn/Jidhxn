@@ -9,7 +9,7 @@
 
 - Ramanujan College, Delhi University **BSc (Hons.) Computer Science**
 - GMHSS Calicut University Campus **Computer Science**
-- reach me on [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b) and [@jidhxn](https://twitter.com/jidhxn)
+- reach me on [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b) and [@jidhxn](https://www.instagram.com/jidhxn/)
 
 ## :octocat: Github Stats
 
