@@ -1,5 +1,5 @@
 ## Hi, I'm Jidhun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-- I’m a self taught Full Stack Developer, currently working on my own projects.
+- I’m a self taught Full Stack Developer, currently working on my own projects
 - I’m interested in Open Source Development
 - I’m looking to collaborate on interesting projects
 
