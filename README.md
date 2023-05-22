@@ -10,7 +10,7 @@
 - Ramanujan College, Delhi University **BSc (Hons.) Computer Science**
 - Sri C AchuthaMenon Govt College, Thrissur **BSc Computer Science (Drop-Out)**
 - GMHSS Calicut University Campus **Computer Science**
-- reach me on [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b) and [@E_Mail](https://www.gmail.com/ashchiquu@gmail.com/)
+- reach me on [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b) and [e-mail](mailto:ashchiquu@gmail.com)
 
 ## :octocat: Github Stats
 
