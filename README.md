@@ -21,3 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jidhxn&show_icons=true&theme=dark&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jidhxn&theme=dark&hide_border=true&layout=compact" /> 
 </p>
+
+
+
+[![An image of @jidhxn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jidhxn)](https://holopin.io/@jidhxn)
