@@ -13,7 +13,6 @@
 
 ## :octocat: Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jidhxn&theme=dark" alt="Jidhun" /></p>
 
 <br /><hr />
 
