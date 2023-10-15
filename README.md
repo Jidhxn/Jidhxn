@@ -7,7 +7,7 @@
  [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)
 ### 📚 Education
 
-- Ramanujan College, Delhi University **BSc (Hons.) Computer Science**
+- Ramanujan College, University of Delhi **BSc (Hons.) Computer Science**
 - GMHSS Calicut University Campus **Computer Science**
 - reach me through [e-mail](mailto:ashchiquu@gmail.com) or [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b)
 
