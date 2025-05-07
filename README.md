@@ -1,5 +1,5 @@
 ## Hi, I'm Jidhun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-- 👨‍💻 I’m a self taught Full Stack Developer, currently working on my own projects
+- 👨‍💻 I’m a self taught Data Science & Machine Learning enthusiast, currently working on my own projects
 - 💞️ I’m interested in Open Source Development
 - 👀 I’m looking to collaborate on interesting projects
 
@@ -7,7 +7,7 @@
  [ ![twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/jidhxn)
 ### 📚 Education
 
-- Ramanujan College, University of Delhi **BSc (Hons.) Computer Science**
+- University of Delhi **BSc (Hons.) Computer Science**
 - GMHSS Calicut University Campus **Computer Science**
 - reach me through [e-mail](mailto:ashchiquu@gmail.com) or [linkedin](https://www.linkedin.com/in/jidhun-pp-12594322b)
 
